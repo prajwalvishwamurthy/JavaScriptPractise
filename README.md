@@ -1,0 +1,2 @@
+# JavaScriptPractise
+JavaScript Learning repo 
