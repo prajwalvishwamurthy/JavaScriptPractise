@@ -1,4 +1,5 @@
-function myFunction()
+function Warning()
 {
-    document.getElementById("myCheck").click();
+    alert("warning dangerous and files")
+    console.log("this is the page where the file is not corrected.")
 }
