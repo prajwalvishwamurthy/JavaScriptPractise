@@ -7,14 +7,14 @@ p{
     text-emphasis: bold;
 }
 .HeadContent{
-    background-color: red;
+    background-color: rgb(71, 224, 25);
     height: 100px;
     padding-left:center;
 }
 table{
     margin-left: auto;
     margin-right: auto;
-    bo
+    border-radius: 10px;
 }
 th{
     border-radius: 2px;
