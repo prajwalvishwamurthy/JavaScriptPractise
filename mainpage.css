@@ -6,8 +6,8 @@ p{
     text-align: center;
     text-emphasis: bold;
 }
-.HeadContent{
-    background-color: rgb(71, 224, 25);
+div.headerclass1{
+    background-color: rgb(220, 18, 18);
     height: 100px;
     padding-left:center;
 }
@@ -18,4 +18,7 @@ table{
 }
 th{
     border-radius: 2px;
+}
+img{
+    al
 }
